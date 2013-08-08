@@ -1,0 +1,11 @@
+Description:
+
+Do you use Google Maps? Are you sick of unsafe routes? We bring you Safe Route! 
+Safe Route it is like Google Maps but offers you a safer alternative. If you walk, cycle or drive then Safe Route will tell a way to go which won't take you through dangerous areas. By using police data we can keep you safe and aware of what's happening on your route.
+
+Key Features:
+
+*Connects to data.police.uk API to provide up to date crime statistics. 
+*Free updates
+*Connects to Google Maps data to provide reliable directions.
+*A secure service.  
